@@ -7,7 +7,7 @@ Fine-tuning (FT) large language models (LLMs) is crucial for adapting general-pu
 
 ## Framework Overview
 
-Our proposed framework is illustrated as in Fig. 1. in the original paper.
+Our proposed framework is illustrated as in Fig. 1. in the original paper.  ![Framework](FedLoDrop.pdf)
 
 
 ## Environment
